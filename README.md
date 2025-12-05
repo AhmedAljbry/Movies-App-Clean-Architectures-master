@@ -1,16 +1,34 @@
-# movies_app
+# Movies App – Flutter Movie Listing & Details Application  
+### Clean Architecture • REST API • Flutter  
 
-A new Flutter project.
+A modern movie-listing application built with **Flutter** following **Clean Architecture** principles.  
+The app fetches movie data from a public Movie API (e.g. TMDB or similar), displays lists of movies, details, and supports responsive UI.  
+Screenshots of the UI are included for preview.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎬 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse popular, top rated, upcoming movies  
+- Movie detail page: poster, title, synopsis, rating, release date, etc.  
+- Search movies by name  
+- Clean & modular code structure (Clean Architecture)  
+- Responsive UI (adapt to different devices)  
+- Smooth animations & nice UI design  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots & UI Preview
+
+> The UI images are included in the `screenshots/` folder.  
+
+![Movies App - Home Screen](screenshots/home.png)  
+![Movies App - Movie Detail](screenshots/detail.png)  
+![Movies App - Search Screen](screenshots/search.png)  
+
+*Note: Add more screenshots as needed (e.g. for landscape, tablet, light/dark mode).*
+
+---
+
+## 🧱 Project Structure (Clean Architecture)
+
