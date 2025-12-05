@@ -1,34 +1,36 @@
-# Movies App – Flutter Movie Listing & Details Application  
-### Clean Architecture • REST API • Flutter  
+# Movies App – Flutter Clean Architecture  
+A simple yet professionally structured Flutter movie app using Clean Architecture principles.
 
-A modern movie-listing application built with **Flutter** following **Clean Architecture** principles.  
-The app fetches movie data from a public Movie API (e.g. TMDB or similar), displays lists of movies, details, and supports responsive UI.  
-Screenshots of the UI are included for preview.
+This project demonstrates how to build a modular Flutter application with clear separation of concerns, scalable folder structure, and API-ready architecture — even in early stages of development.
 
 ---
 
-## 🎬 Features
+## 🎬 App Preview
 
-- Browse popular, top rated, upcoming movies  
-- Movie detail page: poster, title, synopsis, rating, release date, etc.  
-- Search movies by name  
-- Clean & modular code structure (Clean Architecture)  
-- Responsive UI (adapt to different devices)  
-- Smooth animations & nice UI design  
+Below is the current UI screenshot included in the project:
 
----
+![Movies App Screen](movies.png)
 
-## 📷 Screenshots & UI Preview
-
-> The UI images are included in the `screenshots/` folder.  
-
-![Movies App - Home Screen](screenshots/home.png)  
-![Movies App - Movie Detail](screenshots/detail.png)  
-![Movies App - Search Screen](screenshots/search.png)  
-
-*Note: Add more screenshots as needed (e.g. for landscape, tablet, light/dark mode).*
+*(This image is stored inside the project root. Rename it if needed.)*
 
 ---
 
-## 🧱 Project Structure (Clean Architecture)
+## 🌟 Project Overview
+
+This Flutter project follows **Clean Architecture** to ensure the app is easy to scale, maintain, and extend as new features are added.
+
+Even with one screen or early UI, the internal structure is already organized in a professional way that companies appreciate.
+
+### What this project demonstrates:
+- Proper Clean Architecture layers  
+- Separation of UI, domain logic, and data  
+- Modular folder structure  
+- Ability to plug in real movie APIs later  
+- Good coding standards and readability  
+
+---
+
+## 🧱 Folder Structure
+
+The project uses a simplified Clean Architecture structure:
 
